@@ -1,5 +1,5 @@
 {
-    "name" : "Zero to Hero",
+    "name" : "BoxLang Trivia",
 
     "build": {
 		"dockerfile": "Dockerfile"
@@ -26,22 +26,16 @@
         "codespaces": {
             "openFiles": [
                 "OUTLINE.md",
-                "PREREQUISITES.md"
+                "PREREQUISITOS.md"
             ]
         },
         "vscode": {
             "extensions": [
-                "adrianwilczynski.alpine-js-intellisense",
+                "ortus-solutions.vscode-boxlang",
                 "autoalignment.auto-alignment",
                 "equinusocio.vsc-community-material-theme",
                 "formulahendry.auto-close-tag",
                 "formulahendry.auto-rename-tag",
-                "KamasamaK.vscode-cfml",
-                "mhutchie.git-graph",
-                "ms-azuretools.vscode-docker",
-                "mtxr.sqltools",
-                "mtxr.sqltools-driver-mysql",
-                "mtxr.sqltools-driver-sqlite",
                 "ortus-solutions.vscode-coldbox",
                 "ortus-solutions.vscode-commandbox",
                 "ortus-solutions.vscode-testbox",
