@@ -1,6 +1,6 @@
 # BoxLang Workshop : Juego de Trivia
 
-![boxlang](image.png)
+![boxlang](boxlang-logo.png)
 
 Bienvenidos al mundo de programacion con [BoxLang](https://www.boxlang.io).  Este repositorio contiene el taller de entrenamiento
 dividido en varios pasos y nuestra aplicacion completada: **Juego de Trivia**, una aplicacion de trivia.
